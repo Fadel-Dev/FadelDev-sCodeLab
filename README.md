@@ -26,7 +26,7 @@ Ce dépôt est destiné à vous familiariser avec les étapes de base pour contr
 - Sur le terminal, naviguez dans le répertoire cloné avec `cd nom-du-repertoire`.
 - Créez une nouvelle branche en utilisant `git checkout -b ajout-nom-specialite` en remplaçant `nom-specialite` par vos propres informations.
 
-### 4. Éditer le fichier `students.json`
+### 4. Éditer le fichier `djambars.json`
 
 - Ouvrez le fichier `djambar.json` dans un éditeur de texte ou un IDE.
 - Ajoutez vos informations au format JSON comme ceci :
