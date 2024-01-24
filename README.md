@@ -54,5 +54,4 @@ Ce dépôt est destiné à vous familiariser avec les étapes de base pour contr
 - Expliquez brièvement vos modifications et envoyez la pull request.
 
 ---
-
-Ce guide devrait aider les étudiants à comprendre comment créer une branche, apporter des modifications et soumettre une contribution via GitHub. N'oubliez pas d'adapter les instructions en fonction des besoins spécifiques de votre dépôt.😎
+FadelDev
