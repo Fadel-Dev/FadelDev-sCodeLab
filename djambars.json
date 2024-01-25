@@ -1,8 +1,15 @@
+
 {
   "djambars": [
     {
       "name": "Ndiande Diop",
       "speciality": "Developpeuse web"
+    },
+    {
+      "name": "Samba Ba",
+      "speciality":"Technicien Superieur en informatique"
+
     }
+    
   ]
 }
