@@ -1,4 +1,3 @@
-
 {
   "djambars": [
     {
@@ -7,9 +6,11 @@
     },
     {
       "name": "Samba Ba",
-      "speciality":"Technicien Superieur en informatique"
-
+      "speciality": "Technicien Superieur en informatique"
+    },
+    {
+      "name": "Adama SANE",
+      "speciality": "Futur Developpeur Full Stack"
     }
-    
   ]
 }
